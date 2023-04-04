@@ -26,7 +26,7 @@ export default function PrivacyPolicy() {
             <h2>Changes to This Privacy Policy</h2>
             <p>We may update this privacy policy from time to time. If we make material changes to this policy, we will notify you by email or by posting a notice on our website.</p>
             <h2>Contact Us</h2>
-            <p>If you have any questions or concerns about this privacy policy, please contact us at [contact email].</p>
+            <p>If you have any questions or concerns about this privacy policy, please contact us at <a href="mailto:SocialEase@gmail.com">SocialEase@gmail.com</a>.</p>
         </div>
     );
 }

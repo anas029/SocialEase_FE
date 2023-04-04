@@ -10,7 +10,7 @@ export default function UserDataDeletion() {
             </ol>
             <p>After you delete your account, we will delete your personal information from our systems within a reasonable period of time. Please note that we may retain certain information as required by law or as necessary to protect and defend our rights or property.</p>
             <h2>Contact Us</h2>
-            <p>If you have any questions or concerns about deleting your personal information from our Service, please contact us at [contact email].</p>
+            <p>If you have any questions or concerns about deleting your personal information from our Service, please contact us at <a href="mailto:SocialEase@gmail.com">SocialEase@gmail.com</a>.</p>
         </div>
     );
 }
